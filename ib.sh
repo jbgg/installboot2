@@ -1,7 +1,7 @@
 #!/bin/sh
-## ib01.sh ##
+## ib.sh ##
 
-## TODO: make backup of pbr
+## TODO: make backup of previous pbr
 
 
 # programexit arg1
