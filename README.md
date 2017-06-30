@@ -7,5 +7,5 @@ but I tried to make it with another device (a flash memory) and it didn't work.
 Maybe I didn't use it correctly,
 so I have created a script which makes that work.
 I have called ib.sh, and we can use as follow:
-# sh ib.sh /dev/sd1c 3
+\# sh ib.sh /dev/sd1c 3
 where /dev/sd1c is the device and 3 is the inode number.
